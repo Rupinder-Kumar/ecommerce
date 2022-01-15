@@ -36,7 +36,6 @@ const config = {
         }
     }
 
-    console.log(snapShop)
     return userRef;
   } 
 
